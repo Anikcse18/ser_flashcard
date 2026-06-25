@@ -1,6 +1,6 @@
 import { Flashcard } from "@/types";
 
-export const lecture1: Flashcard[] = [
+export const lecture1Cards: Flashcard[] = [
   {
     id: 101,
     lecture: 1,
